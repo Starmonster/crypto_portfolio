@@ -1,0 +1,9 @@
+app_functions.ipynb
+auto_calls.py
+automation_tests.ipynb
+Pipfile
+Pipfile.lock
+portfolio_calls.py
+.ipynb_checkpoints
+.idea
+__pycache__/
